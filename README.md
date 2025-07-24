@@ -1,2 +1,3 @@
 # Analytics
-Variation of scripts that aid in automating processes.
+## Author: Allen Aguas
+Scripts that aid in automating analytical processes.
